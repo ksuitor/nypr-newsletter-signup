@@ -6,7 +6,18 @@ This is a simple form widget to subscribe users to a newsletter. Currently confi
 
 This is a React app, bootstrapped with [`create-react-app`](https://github.com/facebookincubator/create-react-app), which includes a testing framework and build tools.
 
-To get started, make an env file. The sample file will include defaults to get you started.
+First, clone this git repo
+
+```
+$ git clone https://github.com/nypublicradio/nypr-newsletter-signup.git
+```
+CD into the repo directory and install NPM
+
+```
+$ npm install
+```
+
+Make an env file. The sample file will include defaults to get you started.
 ```
 $ cp .env.sample .env
 ```
